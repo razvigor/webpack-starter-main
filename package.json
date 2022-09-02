@@ -18,11 +18,10 @@
 		"startkit",
 		"frontend",
 		"es6",
-		"javascript",
-		"webdev"
+		"javascript"
 	],
 	"author": "Trkulja Sasa",
-	"license": "MIT",
+	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.16.7",
 		"@babel/eslint-parser": "^7.16.5",
